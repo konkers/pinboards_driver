@@ -1,4 +1,4 @@
-update=11/30/2017 9:57:06 PM
+update=Friday, December 01, 2017 'AMt' 09:39:04 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,3 +65,4 @@ LibName33=lib/github.com/konkers/kicad_lib/00_microcontrollers
 LibName34=lib/github.com/MacroFab/EDALibraries/KiCad/Schematics/MF_Switches
 LibName35=lib/github.com/MacroFab/EDALibraries/KiCad/Schematics/MF_Connectors
 LibName36=lib/github.com/MacroFab/EDALibraries/KiCad/Schematics/MF_IC_Power
+LibName37=lib/github.com/konkers/kicad_lib/00_isolation

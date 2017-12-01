@@ -35,12 +35,13 @@ LIBS:00_microcontrollers
 LIBS:MF_Switches
 LIBS:MF_Connectors
 LIBS:MF_IC_Power
+LIBS:00_isolation
 LIBS:driver-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 2
+Sheet 2 3
 Title ""
 Date ""
 Rev ""
@@ -711,5 +712,9 @@ Wire Wire Line
 Text Label 1800 3250 0    60   ~ 0
 CAN_RX
 Text Label 1800 3350 0    60   ~ 0
+CAN_TX
+Text HLabel 1800 3250 0    60   Input ~ 0
+CAN_RX
+Text HLabel 1800 3350 0    60   Input ~ 0
 CAN_TX
 $EndSCHEMATC

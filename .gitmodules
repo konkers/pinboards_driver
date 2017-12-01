@@ -1,0 +1,6 @@
+[submodule "lib/github.com/konkers/kicad_lib"]
+	path = lib/github.com/konkers/kicad_lib
+	url = https://github.com/konkers/kicad_lib.git
+[submodule "lib/github.com/MacroFab/EDALibraries"]
+	path = lib/github.com/MacroFab/EDALibraries
+	url = https://github.com/MacroFab/EDALibraries.git
